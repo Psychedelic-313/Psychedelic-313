@@ -13,7 +13,6 @@ My work combines logic, design thinking, and long-term impact. I believe code sh
 
 ### 🚀 Current Focus
 
-- 🌍 Improving access to mental wellness with **Willow** (AI-powered emotional companion)
 - 📱 Crafting modern Android apps with **Jetpack Compose**, **MVVM**, and **Firebase**
 - 🧠 Exploring AI systems with **Python**, **Scikit-learn**, and **Prompt Engineering**
 - 🛠️ Studying architecture for scalable backend tools (REST APIs, Django, PostgreSQL)
