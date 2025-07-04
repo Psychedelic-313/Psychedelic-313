@@ -48,7 +48,6 @@ My work combines logic, design thinking, and long-term impact. I believe code sh
 ### 📬 Let’s Connect
 
 - 📧 Email me at: [franklinphilip81@gmail.com](mailto:franklinphilip81@gmail.com)
-- GitHub DMs are open — feel free to reach out for collaborations or conversations.
 
 ---
 
